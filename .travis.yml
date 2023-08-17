@@ -17,6 +17,7 @@ install:
   - python3 setup.py install
   - cd ..
   - ls -l
+  - ls -l
 
   - sudo apt update
   - sudo apt install 
